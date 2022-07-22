@@ -10,7 +10,10 @@
 
 [<img align="left" alt="Tableau" width="50px" src="20220722_182408.png" style="padding-right:10px;" />][webdev] **my number:)**
 
-
+[<img align="left" alt="Tableau" width="50px" src="20220722_201301.png" style="padding-right:5px;" />][webdev1] **my bot number >w<**
 
 
 [webdev]: https://wa.me/6281272308541/hai/bang
+
+
+[webdev1]: https://wa.me/6289519125022/ketik/.menu/untuk/berinteraksi/dengan/bot
