@@ -8,9 +8,10 @@
 
 ### Contact
 
-[<img align="left" alt="Tableau" width="50px" src="20220722_182408.png" style="padding-right:10px;" />][webdev] **my number:)**
+[<img align="left" width="70px" src="20220722_182408.png" style="padding-right:10px;" />][webdev]
 
-[<img align="left" alt="Tableau" width="50px" src="20220722_201301.png" style="padding-right:5px;" />][webdev1] **my bot number >w<**
+
+[<img align="left" alt="Tableau" width="70px" src="20220722_201301.png" style="padding-right:;" />][webdev1] **my bot number >w<**
 
 
 [webdev]: https://wa.me/6281272308541/hai/bang
