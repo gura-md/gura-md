@@ -1,6 +1,6 @@
 # HAI CUY
 > Halo
->Afakah kamu mau cari SC?
+>lagi cari SC?
 
 >**Note:SC yg di akun bukan ori punya gw:v**
 
